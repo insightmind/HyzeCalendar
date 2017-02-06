@@ -1,4 +1,16 @@
 # HyzeCalendar
+
+## Information
+
+*Hyze is a multilayered and dynamic Calendar for iOS*
+
+Informations and News are posted on my personal Twitter [@fforger] ( https://twitter.com/fforger )
+
+and on Twitter [@HyzeCalendar] ( https://twitter.com/HyzeCalendar )
+
+Website [hyze.insightmind.net] ( https://hyze.insightmind.net ) 
+
+
 ## Pre-Release changelog
 
 ---
