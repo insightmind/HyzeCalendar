@@ -131,7 +131,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
-### Ver 0.2.4 (07.02.2017)
+### 0.2.4 (07.02.2017)
 
 
 * improved jumpToToday, now with selection of todaysCell
