@@ -135,6 +135,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 * improved jumpToToday, now with selection of todaysCell
+* added cellSelectionSaving to keep selection while scrolling
 * added automatic reloading of dayView
 * added darkMode for dayView
 * changed tabBar properties for better orientation
