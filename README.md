@@ -143,3 +143,58 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 ---
+
+
+
+## Future updates
+
+---
+
+
+### until 0.3
+
+
+* EventKit implementation
+* finished dayView
+* improved code
+* release of first betaState: preBeta
+
+
+---
+
+
+### until 0.4
+
+
+* adding own events
+* relationship between superevents and subevents
+* calculate duration of event by relative properties
+* adding addEventView
+
+
+---
+
+
+### until 0.5
+
+
+* including dayView to monthView
+* add dayEventTableView
+* add yearView
+* improving perfomance
+* improving code readabilty
+
+
+---
+
+
+### until 0.6
+
+* improving design elements
+
+
+... much more to come
+
+
+---
+
