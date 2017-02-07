@@ -142,8 +142,6 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 * added connection selectedDay in monthView to day in dayView
 
 
----
-
 
 
 ## Future updates
