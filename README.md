@@ -142,6 +142,12 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 * added connection selectedDay in monthView to day in dayView
 
 
+---
+
+### 0.2.4.1 (08.02.2017)
+
+* fixed dangerous bug
+
 
 
 ## Future updates
