@@ -195,6 +195,27 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 ### until 0.6
 
 * improving design elements
+* adding richmedia notifications
+
+
+---
+
+
+### until 0.7
+
+* adding touchid login feature
+* adding imessage custom message of dayView
+
+
+
+---
+
+
+### until 0.8
+
+* preparing for release
+* bugfixing
+* improving performance
 
 
 ... much more to come
