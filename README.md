@@ -152,7 +152,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
-### 0.2.4.2:11 (11.02.2017)
+### 0.2.4.2 (11.02.2017)
 
 * added basic EventKit implementation
 * connected EventManagement to dayView
