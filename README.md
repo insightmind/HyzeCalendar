@@ -8,14 +8,14 @@ Informations and News are posted on my personal Twitter [@fforger] ( https://twi
 
 and on Twitter [@HyzeCalendar] ( https://twitter.com/HyzeCalendar )
 
-Website [hyze.insightmind.net] ( https://hyze.insightmind.net ) 
+Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 ## Pre-Release changelog
 
 ---
 
-### 0.1.0 (19.01.2017) 
+### 0.1.0 (19.01.2017)
 
 
 * added UICollectionView and UICollectionViewCells
@@ -23,7 +23,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
-### 0.1.2 (22.01.2017) 
+### 0.1.2 (22.01.2017)
 
 
 * added dynamic labeling of the UICollectionViewCells by a given Month
@@ -36,7 +36,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 * added MainInterface
-* added daySelection 
+* added daySelection
 * some behind the scenes features
 
 
@@ -150,6 +150,17 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 
+---
+
+### 0.2.4.2 (11.02.2017)
+
+* added basic EventKit implementation
+* connected EventManagement to dayView
+
+
+
+---
+
 ## Future updates
 
 ---
@@ -222,4 +233,3 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 ---
-
