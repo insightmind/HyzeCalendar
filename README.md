@@ -161,6 +161,10 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.2.4.3 (11.02.2017)
+
+* enabled rendering of allDayEvents in dayView
+
 ## Future updates
 
 ---
