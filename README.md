@@ -188,7 +188,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 ### until 0.3
 
 
-* EventKit implementation
+* EventKit implementation [done]
 * finished dayView
 * improved code
 * release of first betaState: preBeta
