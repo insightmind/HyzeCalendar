@@ -165,6 +165,21 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 * enabled rendering of allDayEvents in dayView
 
+
+
+---
+
+### 0.2.5 (12.02.2017)
+
+* added EventKit implementation
+* added EventReading from iOS Calendars
+* added Conversion from event to dayViewProperties
+* added rendering of events in dayView
+
+
+
+---
+
 ## Future updates
 
 ---
