@@ -180,6 +180,14 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.2.6 (13.02.2017)
+
+* improved dayView design
+
+
+
+---
+
 ## Future updates
 
 ---
