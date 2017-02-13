@@ -15,6 +15,8 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+## 0.1
+
 ### 0.1.0 (19.01.2017)
 
 
@@ -81,6 +83,8 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 ---
+
+## 0.2
 
 ### 0.2.0 (02.02.2017)
 
@@ -199,6 +203,17 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 ### 0.2.8 (13.02.2017)
 
 * improved dayView design
+
+
+
+---
+
+## 0.3
+
+### 0.3.0 (13.02.2017)
+
+* minor bugfixes
+* prepared app for external beta testing
 
 
 
