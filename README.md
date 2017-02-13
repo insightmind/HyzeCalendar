@@ -215,23 +215,17 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 * minor bugfixes
 * prepared app for external beta testing
 
+---
+
+* EventKit implementation
+* finished dayView
+* improved code
+* release of first betaState: preBeta
 
 
 ---
 
 ## Future updates
-
----
-
-
-### until 0.3
-
-
-* EventKit implementation [done]
-* finished dayView [done]
-* improved code
-* release of first betaState: preBeta
-
 
 ---
 
