@@ -188,6 +188,14 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.2.7 (13.02.2017)
+
+* added labels for hours in dayView
+
+
+
+---
+
 ## Future updates
 
 ---
@@ -197,7 +205,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 * EventKit implementation [done]
-* finished dayView
+* finished dayView [done]
 * improved code
 * release of first betaState: preBeta
 
