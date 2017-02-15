@@ -225,6 +225,27 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.3.1 (15.02.2017)
+
+* added settingsView
+* changed navigation
+* fixed bug with todaysSelection
+* added toolbar
+* improved overall design
+* minor bugfixes
+
+---
+
+### 0.3.1.1 (15.02.2017)
+
+* changed rendering of dayView, because of performance
+* added 24hours settings to dayView
+* enabled statusbar
+* added new icons for labels in monthView
+* dynamic icon for selectedDaybutton in monthView
+
+---
+
 ## Future updates
 
 ---
