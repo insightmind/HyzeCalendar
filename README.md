@@ -246,6 +246,13 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.3.2 (19.02.2017)
+
+* added basic UITableView for EventsDetail
+* dynamic EventsDetail when selecting a day
+
+---
+
 ## Future updates
 
 ---
