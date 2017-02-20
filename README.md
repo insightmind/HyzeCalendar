@@ -253,6 +253,15 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.3.3 (20.02.2017)
+
+* added improved UITableView for EventsDetail
+* improved animations
+* added information to EventsDetail
+* added darkMode for EventsDetail
+
+---
+
 ## Future updates
 
 ---
