@@ -262,6 +262,16 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.3.3.1 (22.02.2017)
+
+* prevent the app from crashing
+* improved visual features
+* same color dayView and EventsDetail
+* settings are now stored even if app is closed
+* bugfixes
+
+---
+
 ## Future updates
 
 ---
