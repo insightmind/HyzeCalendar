@@ -270,6 +270,16 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 * settings are now stored even if app is closed
 * bugfixes
 
+
+---
+
+### 0.3.3.2 (26.02.2017)
+
+* added preparation for next big update 0.4
+* improved visualStoryboardFlow
+* added static watchHand
+* some minor bugfixes
+
 ---
 
 ## Future updates
