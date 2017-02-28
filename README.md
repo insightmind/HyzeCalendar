@@ -284,7 +284,15 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 ---
 
 ### 0.3.3.3 (28.02.2017)
+
 * major bugfixes
+
+---
+
+### 0.3.4 (28.02.2017)
+
+* added coming soon to EditView
+* added several non-functional views in EventEditor
 
 ---
 
