@@ -280,6 +280,12 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 * added static watchHand
 * some minor bugfixes
 
+
+---
+
+### 0.3.3.3 (28.02.2017)
+* fixed several big bugs
+
 ---
 
 ## Future updates
