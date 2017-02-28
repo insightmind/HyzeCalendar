@@ -284,7 +284,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 ---
 
 ### 0.3.3.3 (28.02.2017)
-* fixed several big bugs
+* major bugfixes
 
 ---
 
