@@ -296,6 +296,12 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.3.5 (29.02.2017)
+
+* added ability to add events(title, startDate, endDate)
+
+---
+
 ## Future updates
 
 ---
@@ -305,8 +311,7 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 
 * adding own events
-* relationship between superevents and subevents
-* calculate duration of event by relative properties
+* add dayEventTableView
 * adding addEventView
 
 
@@ -315,11 +320,11 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ### until 0.5
 
-
-* including dayView to monthView
-* add dayEventTableView
-* add yearView
-* improving perfomance
+* improving design elements
+* improving main functionality
+* adding subevents and superevents
+* adding relativeEvents
+* adding notifications
 * improving code readabilty
 
 
@@ -328,7 +333,9 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ### until 0.6
 
-* improving design elements
+* improving perfomance
+* including dayView to monthView
+* add yearView
 * adding richmedia notifications
 
 
