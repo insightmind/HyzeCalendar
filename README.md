@@ -296,11 +296,21 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
-### 0.3.5 (29.02.2017)
+### 0.3.5 (01.03.2017)
 
 * added ability to add events(title, startDate, endDate)
 
 ---
+
+### 0.3.6 (02.03.2017)
+
+* added animation for eventsTableViewCellSelection
+* fixed layoutBug where eventsTableViewCell was not the full screenwidth on newer iPhones
+
+
+---
+
+
 
 ## Future updates
 
