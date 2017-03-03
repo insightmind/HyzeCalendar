@@ -310,6 +310,11 @@ Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
 ---
 
+### 0.3.7 (03.03.2017)
+
+* added animation for dayView when eventsTableViewCellSelection
+* improved performance
+* avoid animation when eventsTableViewCell is already selected
 
 
 ## Future updates
