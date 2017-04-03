@@ -10,6 +10,11 @@ and on Twitter [@HyzeCalendar] ( https://twitter.com/HyzeCalendar )
 
 Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
+---
+
+Please post all your issues!
+
+---
 
 ## Pre-Release changelog
 
