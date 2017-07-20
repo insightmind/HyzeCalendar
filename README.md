@@ -321,6 +321,34 @@ Please post all your issues!
 * improved performance
 * avoid animation when eventsTableViewCell is already selected
 
+---
+
+### 0.3.9 (21.06.2017)
+## Codename: Inception
+
+* Completely rewritten CalendarView
+* new DateCalculations
+* Major performance improvements
+* range of years: 4000 (year 0 to year 4000)
+* added previousDays and futureDays into CalendarView
+* fixed a lot of bugs in CalendarView
+
+---
+
+### 0.4pre1 [0.3.9:1407] (20.07.2017)
+## pre-Release of Codename: loveAffair
+# changelog will be replaced by ver 0.4
+
+* completely redesigned interface (adopt to iOS11 HIDG, more animations and shadows)
+* added new color scheme
+* added more life and responsiveness
+* new design of SettingsView
+* new animateDayView toggle in Settings
+* events now animate in in DayView
+* new CalendarViewLines and toggle in Settings
+* added automaticLayering of eventViews in the DayView
+* changed renderingProcess of eventViews
+* general bugfixes and performance improvements
 
 ## Future updates
 
