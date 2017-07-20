@@ -324,7 +324,8 @@ Please post all your issues!
 ---
 
 ### 0.3.9 (21.06.2017)
-## Codename: Inception
+  
+Codename: Inception
 
 * Completely rewritten CalendarView
 * new DateCalculations
@@ -336,8 +337,10 @@ Please post all your issues!
 ---
 
 ### 0.4pre1 [0.3.9:1407] (20.07.2017)
-## pre-Release of Codename: loveAffair
-# changelog will be replaced by ver 0.4
+  
+pre-Release of Codename: loveAffair 
+
+changelog will be replaced by ver 0.4
 
 * completely redesigned interface (adopt to iOS11 HIDG, more animations and shadows)
 * added new color scheme
