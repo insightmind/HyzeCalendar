@@ -361,9 +361,9 @@ changelog will be replaced by ver 0.4
 ### until 0.4
 
 
-* adding own events
-* add dayEventTableView
-* adding addEventView
+* add own events
+* add eventDetailView
+* improving addEventView
 
 
 ---
@@ -371,7 +371,6 @@ changelog will be replaced by ver 0.4
 
 ### until 0.5
 
-* improving design elements
 * improving main functionality
 * adding subevents and superevents
 * adding relativeEvents
@@ -384,10 +383,8 @@ changelog will be replaced by ver 0.4
 
 ### until 0.6
 
-* improving perfomance
 * including dayView to monthView
 * add yearView
-* adding richmedia notifications
 
 
 ---
@@ -395,20 +392,11 @@ changelog will be replaced by ver 0.4
 
 ### until 0.7
 
-* adding touchid login feature
-* adding imessage custom message of dayView
-
-
-
----
-
-
-### until 0.8
-
 * preparing for release
 * bugfixing
 * improving performance
 
+--_
 
 ... much more to come
 
