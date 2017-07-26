@@ -339,10 +339,12 @@ Codename: Inception
 ## 0.4
 
 ### 0.4pre1 [0.3.9:1412] (20.07.2017)
+
+**current Testflight beta**
   
 pre-Release of Codename: loveAffair 
 
-changelog will be replaced by ver 0.4
+changelog will be replaced by version 0.4
 
 * completely redesigned interface (adopt to iOS11 HIDG, more animations and shadows)
 * added new color scheme
@@ -354,6 +356,22 @@ changelog will be replaced by ver 0.4
 * added automaticLayering of eventViews in the DayView
 * changed renderingProcess of eventViews
 * general bugfixes and performance improvements
+
+### 0.4pre2 [0.3.9:1519] (27.07.2017)
+
+pre-Release of Codename: loveAffair
+
+changelog will be replaced by version 0.4
+
+* removed bottomToolbar
+* added cornerRadius to EventTableView
+* improved design of EventEditor (blurry background)
+* new startEndSelection in EventEditor
+* implemented UIScrollView into EventEditor
+* new startsSelection- and endsSelectionView as PopupView
+* fixed SettingsView AutoLayoutIssues
+* fixed UIStoryboardSeques of EventEditor
+
 
 ## Future updates
 
