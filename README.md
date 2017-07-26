@@ -10,11 +10,9 @@ and on Twitter [@HyzeCalendar] ( https://twitter.com/HyzeCalendar )
 
 Website [hyze.insightmind.net] ( https://hyze.insightmind.net )
 
----
 
-Please post all your issues!
+**Please post all your issues!**
 
----
 
 ## Pre-Release changelog
 
@@ -28,18 +26,16 @@ Please post all your issues!
 * added UICollectionView and UICollectionViewCells
 
 
----
 
-### 0.1.2 (22.01.2017)
+### 0.1.1 (22.01.2017)
 
 
 * added dynamic labeling of the UICollectionViewCells by a given Month
 * “NIM” = “Not in Month”
 
 
----
 
-### 0.1.3 (24.01.2017)
+### 0.1.2 (24.01.2017)
 
 
 * added MainInterface
@@ -47,16 +43,14 @@ Please post all your issues!
 * some behind the scenes features
 
 
----
-### 0.1.4 (25.01.2017)  
+### 0.1.3 (25.01.2017)  
 
 
 * added support for multiple Months
 
 
----
 
-### 0.1.6 (27.01.2017)
+### 0.1.4 (27.01.2017)
 
 
 * added MonthLabel
@@ -64,9 +58,8 @@ Please post all your issues!
 * improved AutoLayout
 
 
----
 
-### 0.1.8 (28.01.2017)
+### 0.1.5 (28.01.2017)
 
 
 * added better Month capabilities
@@ -74,9 +67,8 @@ Please post all your issues!
 * added yearString to header
 * fixed problems while changing color
 
----
 
-### 0.1.9 (30.01.2017)
+### 0.1.6 (30.01.2017)
 
 
 * improved loading duration
@@ -99,7 +91,6 @@ Please post all your issues!
 * new Design
 
 
----
 
 ### 0.2.1 (02.02.2017)
 
@@ -109,7 +100,6 @@ Please post all your issues!
 * minor Bugfixes
 
 
----
 
 ### 0.2.2 (04.02.2017)
 
@@ -120,7 +110,6 @@ Please post all your issues!
 * a lot of Bugfixes
 
 
----
 
 ### 0.2.3 (04.02.2017)
 
@@ -128,7 +117,6 @@ Please post all your issues!
 * added visual rendering of events in dayView
 
 
----
 
 ### 0.2.3.1 (06.02.2017)
 
@@ -138,7 +126,6 @@ Please post all your issues!
 * a handful of Bugfixes
 
 
----
 
 ### 0.2.4 (07.02.2017)
 
@@ -151,7 +138,6 @@ Please post all your issues!
 * added connection selectedDay in monthView to day in dayView
 
 
----
 
 ### 0.2.4.1 (08.02.2017)
 
@@ -159,7 +145,6 @@ Please post all your issues!
 
 
 
----
 
 ### 0.2.4.2 (11.02.2017)
 
@@ -168,7 +153,6 @@ Please post all your issues!
 
 
 
----
 
 ### 0.2.4.3 (11.02.2017)
 
@@ -176,7 +160,6 @@ Please post all your issues!
 
 
 
----
 
 ### 0.2.5 (12.02.2017)
 
@@ -187,7 +170,6 @@ Please post all your issues!
 
 
 
----
 
 ### 0.2.6 (13.02.2017)
 
@@ -195,7 +177,6 @@ Please post all your issues!
 
 
 
----
 
 ### 0.2.7 (13.02.2017)
 
@@ -203,12 +184,10 @@ Please post all your issues!
 
 
 
----
 
 ### 0.2.8 (13.02.2017)
 
 * improved dayView design
-
 
 
 ---
@@ -219,16 +198,12 @@ Please post all your issues!
 
 * minor bugfixes
 * prepared app for external beta testing
-
----
-
 * EventKit implementation
 * finished dayView
 * improved code
 * release of first betaState: preBeta
 
 
----
 
 ### 0.3.1 (15.02.2017)
 
@@ -239,7 +214,6 @@ Please post all your issues!
 * improved overall design
 * minor bugfixes
 
----
 
 ### 0.3.1.1 (15.02.2017)
 
@@ -249,14 +223,12 @@ Please post all your issues!
 * added new icons for labels in monthView
 * dynamic icon for selectedDaybutton in monthView
 
----
 
 ### 0.3.2 (19.02.2017)
 
 * added basic UITableView for EventsDetail
 * dynamic EventsDetail when selecting a day
 
----
 
 ### 0.3.3 (20.02.2017)
 
@@ -265,7 +237,6 @@ Please post all your issues!
 * added information to EventsDetail
 * added darkMode for EventsDetail
 
----
 
 ### 0.3.3.1 (22.02.2017)
 
@@ -276,7 +247,6 @@ Please post all your issues!
 * bugfixes
 
 
----
 
 ### 0.3.3.2 (26.02.2017)
 
@@ -286,26 +256,25 @@ Please post all your issues!
 * some minor bugfixes
 
 
----
 
 ### 0.3.3.3 (28.02.2017)
 
 * major bugfixes
 
----
+
 
 ### 0.3.4 (28.02.2017)
 
 * added coming soon to EditView
 * added several non-functional views in EventEditor
 
----
+
 
 ### 0.3.5 (01.03.2017)
 
 * added ability to add events(title, startDate, endDate)
 
----
+
 
 ### 0.3.6 (02.03.2017)
 
@@ -313,7 +282,6 @@ Please post all your issues!
 * fixed layoutBug where eventsTableViewCell was not the full screenwidth on newer iPhones
 
 
----
 
 ### 0.3.7 (03.03.2017)
 
@@ -321,9 +289,9 @@ Please post all your issues!
 * improved performance
 * avoid animation when eventsTableViewCell is already selected
 
----
 
-### 0.3.9 (21.06.2017)
+
+### 0.3.8 (21.06.2017)
   
 Codename: Inception
 
@@ -386,7 +354,6 @@ changelog will be replaced by version 0.4
 * improving addEventView
 
 
----
 
 
 ### until 0.5
@@ -398,7 +365,6 @@ changelog will be replaced by version 0.4
 * improving code readabilty
 
 
----
 
 
 ### until 0.6
@@ -407,7 +373,6 @@ changelog will be replaced by version 0.4
 * add yearView
 
 
----
 
 
 ### until 0.7
@@ -416,9 +381,7 @@ changelog will be replaced by version 0.4
 * bugfixing
 * improving performance
 
---_
 
 ... much more to come
 
 
----
