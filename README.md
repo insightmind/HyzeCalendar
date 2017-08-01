@@ -340,6 +340,18 @@ changelog will be replaced by version 0.4
 * fixed SettingsView AutoLayoutIssues
 * fixed UIStoryboardSeques of EventEditor
 
+### 0.4pre2.1 [0.3.9:1647] (01.08.2017)
+
+pre-Release of Codename: loveAffair
+
+changelog will be replaced by version 0.4
+
+* fixed major CalendarViewBug
+* isToday is now working correctly
+* fixed scrollingCrash
+
+---
+
 
 ## Future updates
 
