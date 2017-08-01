@@ -306,49 +306,23 @@ Codename: Inception
 
 ## 0.4
 
-### 0.4pre1 [0.3.9:1412] (20.07.2017)
+### 0.4 (02.08.2017)
 
 **current Testflight beta**
-  
-pre-Release of Codename: loveAffair 
 
-changelog will be replaced by version 0.4
+Codename: loveAffair
 
 * completely redesigned interface (adopt to iOS11 HIDG, more animations and shadows)
-* added new color scheme
-* added more life and responsiveness
-* new design of SettingsView
 * new animateDayView toggle in Settings
-* events now animate in in DayView
-* new CalendarViewLines and toggle in Settings
+* new CalendarViewLines toggle in Settings
 * added automaticLayering of eventViews in the DayView
 * changed renderingProcess of eventViews
-* general bugfixes and performance improvements
-
-### 0.4pre2 [0.3.9:1519] (27.07.2017)
-
-pre-Release of Codename: loveAffair
-
-changelog will be replaced by version 0.4
-
 * removed bottomToolbar
-* added cornerRadius to EventTableView
-* improved design of EventEditor (blurry background)
-* new startEndSelection in EventEditor
-* implemented UIScrollView into EventEditor
-* new startsSelection- and endsSelectionView as PopupView
-* fixed SettingsView AutoLayoutIssues
-* fixed UIStoryboardSeques of EventEditor
-
-### 0.4pre2.1 [0.3.9:1647] (01.08.2017)
-
-pre-Release of Codename: loveAffair
-
-changelog will be replaced by version 0.4
-
-* fixed major CalendarViewBug
+* improved design of EventEditor (not yet working!)
 * isToday is now working correctly
-* fixed scrollingCrash
+* fully integrated daySelection with allDay toggle
+* fixed a lot of bugs and AutoLayoutIssues
+* general bugfixes and performance improvements
 
 ---
 
@@ -358,7 +332,7 @@ changelog will be replaced by version 0.4
 ---
 
 
-### until 0.4
+### 0.4 - 0.5
 
 
 * add own events
@@ -368,7 +342,7 @@ changelog will be replaced by version 0.4
 
 
 
-### until 0.5
+### 0.5 - 0.6
 
 * improving main functionality
 * adding subevents and superevents
@@ -379,15 +353,14 @@ changelog will be replaced by version 0.4
 
 
 
-### until 0.6
+### 0.6 - 0.7
 
-* including dayView to monthView
 * add yearView
 
 
 
 
-### until 0.7
+### 0.7 - 8
 
 * preparing for release
 * bugfixing
