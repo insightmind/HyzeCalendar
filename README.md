@@ -324,6 +324,39 @@ Codename: loveAffair
 * fixed a lot of bugs and AutoLayoutIssues
 * general bugfixes and performance improvements
 
+
+### 0.4.0.1 (05.08.2017)
+
+**current Testflight beta**
+
+Codename: BuggyBunny
+
+* fixed incorrect calculations of CalendarView
+* disabled 'Monday firstWeekDay', will be enabled in 0.4.0.2 (Codename: TimeShifter)
+* fixed adaption of ETView while scrolling.
+* fixed dayView - all Events are now shown
+* new Animation in dayView, because of changes of EventViewRendering
+
+### 0.4.0.2 (coming soon)
+
+Codename: TimeShifter
+
+
+### 0.4.1 (coming soon)
+
+Codename: Awake
+
+
+### 0.4.2 (coming soon)
+
+Codename: Otherside
+
+
+### 0.4.3 (coming soon)
+
+Codename: Clean
+
+
 ---
 
 
