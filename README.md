@@ -341,6 +341,13 @@ Codename: BuggyBunny
 
 Codename: TimeShifter
 
+upcoming fixes:
+
+* enhanced dayView-Animation
+* improved dayShift - Set any weekDay as firstWeekDayOfWeek
+* autoLayoutFix for Settings
+* renaming SettingsSwitches
+
 
 ### 0.4.1 (coming soon)
 
@@ -355,6 +362,10 @@ Codename: Otherside
 ### 0.4.3 (coming soon)
 
 Codename: Clean
+
+### 0.4.4 (coming soon)
+
+Codename: Rise
 
 
 ---
