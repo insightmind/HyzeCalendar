@@ -308,8 +308,6 @@ Codename: Inception
 
 ### 0.4 (02.08.2017)
 
-**current Testflight beta**
-
 Codename: loveAffair
 
 * completely redesigned interface (adopt to iOS11 HIDG, more animations and shadows)
@@ -340,8 +338,6 @@ Codename: BuggyBunny
 ***current Testflight beta***
 
 Codename: TimeShifter
-
-upcoming fixes:
 
 * **[DESIGN]** new more distinct AppIcon
 * **[USABILITY]** enhanced dayView-Animation
