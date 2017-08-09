@@ -327,8 +327,6 @@ Codename: loveAffair
 
 ### 0.4.0.1 (05.08.2017)
 
-**current Testflight beta**
-
 Codename: BuggyBunny
 
 * fixed incorrect calculations of CalendarView
@@ -337,22 +335,41 @@ Codename: BuggyBunny
 * fixed dayView - all Events are now shown
 * new Animation in dayView, because of changes of EventViewRendering
 
-### 0.4.0.2 (coming soon)
+### 0.4.0.2 (09.08.2017)
+
+***current Testflight beta***
 
 Codename: TimeShifter
 
 upcoming fixes:
 
-* enhanced dayView-Animation
-* improved dayShift - Set any weekDay as firstWeekDayOfWeek
-* autoLayoutFix for Settings
-* renaming SettingsSwitches
+* **[DESIGN]** new more distinct AppIcon
+* **[USABILITY]** enhanced dayView-Animation
+* **[FEATURE]** improved dayShift - Set any weekDay as firstWeekDayOfWeek
 
 
 ### 0.4.1 (coming soon)
 
+*** FUTURE_TESTFLIGHT_BETA ***
+
 Codename: Awake
 
+* **[REQUEST]** change colorScheme or make it changeable
+
+* **[FEATURE]** add general function to add newEvents
+* **[FEATURE]** add saveTime for DateSelection
+* **[FEATURE]** add NotesSection for Events
+* **[FEATURE]** set Date on EventEditor relativ to selected Date
+* **[FEATURE]** add DataSystem for unique EventColors
+
+* **[DESIGN]** enhance design in SettingsView
+* **[DESIGN]** EventEditorTitleBackgroundTransparancy
+
+* **[USABILITY]** automatically dismiss Keyboard
+
+* **[BUGFIX]** automatic deselection of Cells if out of range
+* **[BUGFIX]** reselect Cell on reload or reappearance
+* **[BUGFIX]** updateETViewHeight Design when SettingsUpdate
 
 ### 0.4.2 (coming soon)
 
