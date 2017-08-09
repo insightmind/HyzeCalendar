@@ -350,7 +350,7 @@ upcoming fixes:
 
 ### 0.4.1 (coming soon)
 
-*** FUTURE_TESTFLIGHT_BETA ***
+***FUTURE_TESTFLIGHT_BETA***
 
 Codename: Awake
 
