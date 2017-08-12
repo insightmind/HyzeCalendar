@@ -350,22 +350,30 @@ Codename: TimeShifter
 
 Codename: Awake
 
-* **[REQUEST]** change colorScheme or make it changeable
 
-* **[FEATURE]** add general function to add newEvents
-* **[FEATURE]** add saveTime for DateSelection
-* **[FEATURE]** add NotesSection for Events
-* **[FEATURE]** set Date on EventEditor relativ to selected Date
-* **[FEATURE]** add DataSystem for unique EventColors
 
-* **[DESIGN]** enhance design in SettingsView
-* **[DESIGN]** EventEditorTitleBackgroundTransparancy
-
-* **[USABILITY]** automatically dismiss Keyboard
-
-* **[BUGFIX]** automatic deselection of Cells if out of range
-* **[BUGFIX]** reselect Cell on reload or reappearance
-* **[BUGFIX]** updateETViewHeight Design when SettingsUpdate
+- [x] **[REQUEST]** change colorScheme or make it changeable
+- [x] **[FEATURE]** add general function to add newEvents
+- [x] **[FEATURE]** add saveTime for DateSelection
+- [ ] **[FEATURE]** add NotesSection for Events
+- [ ] **[FEATURE]** set Date on EventEditor relativ to selected Date
+- [ ] **[FEATURE]** add DataSystem for unique EventColors
+- [x] **[DESIGN]** watchhand shows time dynamically
+- [x] **[DESIGN]** changed AppIcon again
+- [ ] **[DESIGN]** enhance design in SettingsView
+- [ ] **[DESIGN]** EventEditorTitleBackgroundTransparancy
+- [x] **[USABILITY]** automatically dismiss Keyboard
+- [ ] **[USABILITY]** automatic reload of dayView if new Event was added
+- [x] **[USABILITY]** added Locale to DateSelection and DateSelectionCell
+- [x] **[CODE]** added Color to new ThemeStruct
+- [x] **[CODE]** migrated code to **Swift 4**
+- [x] **[BUGFIX]** automatic deselection of Cells if out of range
+- [x] **[BUGFIX]** reselect Cell on reload or reappearance
+- [x] **[BUGFIX]** updateETViewHeight Design when SettingsUpdate
+- [x] **[BUGFIX]** make watchhand visible again
+- [x] **[BUGFIX]** isToday and isSelected now works again
+- [x] **[BUGFIX]** month in dayView is now correct month
+- [x] **[BUGFIX]** ETView height is now correct when firstDayOfWeek is Saturday(7)
 
 ### 0.4.2 (coming soon)
 
