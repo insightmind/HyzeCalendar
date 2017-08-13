@@ -335,8 +335,6 @@ Codename: BuggyBunny
 
 ### 0.4.0.2 (09.08.2017)
 
-***current Testflight beta***
-
 Codename: TimeShifter
 
 * **[DESIGN]** new more distinct AppIcon
@@ -346,27 +344,36 @@ Codename: TimeShifter
 
 ### 0.4.1 (coming soon)
 
-***FUTURE_TESTFLIGHT_BETA***
+***TESTFLIGHT_BETA***
 
 Codename: Awake
 
-
-
 - [x] **[REQUEST]** change colorScheme or make it changeable
+
+
 - [x] **[FEATURE]** add general function to add newEvents
-- [x] **[FEATURE]** add saveTime for DateSelection
-- [ ] **[FEATURE]** add NotesSection for Events
-- [ ] **[FEATURE]** set Date on EventEditor relativ to selected Date
-- [ ] **[FEATURE]** add DataSystem for unique EventColors
+- [x] **[FEATURE]** enabled save for DateSelection
+- [x] **[FEATURE]** add NotesSection for Events
+- [x] **[FEATURE]** set Date on EventEditor relativ to selected Date
+
+
 - [x] **[DESIGN]** watchhand shows time dynamically
+- [x] **[DESIGN]** added Red as color for Today
+- [x] **[DESIGN]** CalendarViewCells now glow instead of a shadow
 - [x] **[DESIGN]** changed AppIcon again
-- [ ] **[DESIGN]** enhance design in SettingsView
-- [ ] **[DESIGN]** EventEditorTitleBackgroundTransparancy
+- [x] **[DESIGN]** EventEditorTitleBackgroundTransparancy
+- [x] **[DESIGN]** LaunchScreen overhaul
+
+
 - [x] **[USABILITY]** automatically dismiss Keyboard
-- [ ] **[USABILITY]** automatic reload of dayView if new Event was added
+- [x] **[USABILITY]** automatic reload of dayView if new Event was added
 - [x] **[USABILITY]** added Locale to DateSelection and DateSelectionCell
+
+
 - [x] **[CODE]** added Color to new ThemeStruct
 - [x] **[CODE]** migrated code to **Swift 4**
+
+
 - [x] **[BUGFIX]** automatic deselection of Cells if out of range
 - [x] **[BUGFIX]** reselect Cell on reload or reappearance
 - [x] **[BUGFIX]** updateETViewHeight Design when SettingsUpdate
@@ -374,6 +381,9 @@ Codename: Awake
 - [x] **[BUGFIX]** isToday and isSelected now works again
 - [x] **[BUGFIX]** month in dayView is now correct month
 - [x] **[BUGFIX]** ETView height is now correct when firstDayOfWeek is Saturday(7)
+- [x] **[BUGFIX]** ETView height is now correct when month only needs 4 rows
+- [x] **[BUGFIX]** no masking in EventEditorLabel
+
 
 ### 0.4.2 (coming soon)
 
@@ -382,11 +392,14 @@ Codename: Otherside
 
 ### 0.4.3 (coming soon)
 
-Codename: Clean
+Codename: Rise
 
 ### 0.4.4 (coming soon)
 
-Codename: Rise
+Codename: Clean
+
+- [ ] **[FEATURE]** add DataSystem for unique EventColors
+- [ ] **[DESIGN]** enhance design in SettingsView
 
 
 ---
