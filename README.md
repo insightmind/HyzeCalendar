@@ -389,10 +389,20 @@ Codename: Awake
 
 Codename: Otherside
 
+*** FUTURE_TESTFLIGHT_BETA ***
+
+- [ ] **[USABILITY]** automatically reload of calendarView if calendarPermission is granted
+- [ ] **[BUGFIX]** fix watchhand animation
 
 ### 0.4.3 (coming soon)
 
 Codename: Rise
+
+- [ ] **[FEATURE]** new add Event Cell
+- [ ] **[FEATURE]** add DataSystem for unique EventColors
+- [ ] **[DESIGN]** Slide ETView up to fullscreen
+- [ ] **[DESIGN]** Big circle for color or informations
+- [ ] **[DESIGN]** change ETCellView design
 
 ### 0.4.4 (coming soon)
 
@@ -400,6 +410,7 @@ Codename: Clean
 
 - [ ] **[FEATURE]** add DataSystem for unique EventColors
 - [ ] **[DESIGN]** enhance design in SettingsView
+- [ ] **[CODE]** make Colors dynamic -> less code
 
 
 ---
