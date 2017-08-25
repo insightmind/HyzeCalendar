@@ -415,6 +415,13 @@ Codename: Clean
 
 ---
 
+### 0.5 (coming soon)
+
+Codename: Spacetime
+
+- [ ] **[CODE]** introduction to new fileformat .hyze
+- [ ] **[CODE]** low-level .ics and .icsalarm, aswell as .calendar integration
+
 
 ## Future updates
 
