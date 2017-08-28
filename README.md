@@ -411,6 +411,9 @@ Codename: Otherside
 - [x] **[USABILITY]** make EventEditor and EventNonEditor seamless
 - [x] **[USABILITY]** automatically reload of calendarView if calendarPermission is granted
 - [x] **[BUGFIX]** isAMPM EventEditor Time shows 15:00 PM
+- [x] **[BUGFIX]** .deselection of EventView
+- [x] **[BUGFIX]** mask of dayViewTopLabel
+- [x] **[BUGFIX]** deselection of EventView even if ETViewCell is not present
 
 
 ### 0.4.3 (coming soon)
