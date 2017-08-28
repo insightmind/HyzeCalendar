@@ -391,8 +391,27 @@ Codename: Otherside
 
 *** FUTURE_TESTFLIGHT_BETA ***
 
-- [ ] **[USABILITY]** automatically reload of calendarView if calendarPermission is granted
-- [ ] **[BUGFIX]** fix watchhand animation
+- [x] **[REQUEST]** Notes predefined Text changed to PlaceholderText
+- [x] **[REQUEST]** Swipe for nextDay
+- [x] **[FEATURE]** add CalendarSelection for Settings
+- [x] **[FEATURE]** add CalendarSelection for EventEditor
+- [x] **[FEATURE]** add Popup for CalendarSelection
+- [x] **[FEATURE]** add own localCalendar/iCloudCalendar
+- [x] **[FEATURE]** add EventNonEditorView
+- [x] **[FEATURE]** add possibility to Edit an Event
+- [x] **[FEATURE]** remove an Event
+- [ ] **[FEATURE]** add Location for EventEditor
+- [x] **[FEATURE]** add Attendees for EventEditor
+- [x] **[FEATURE]** add recurrenceRules to EventEditor
+- [ ] **[FEATURE]** add customRecurrenceRulePopover
+- [x] **[DESIGN]** add (1)st , (2)nd, ... to midLabel in EventView
+- [x] **[DESIGN]** added more shadows in EventEditor
+- [x] **[CODE]** added ContactManagement
+- [x] **[USABILITY]** check for sharedEvent isAdmin
+- [x] **[USABILITY]** make EventEditor and EventNonEditor seamless
+- [x] **[USABILITY]** automatically reload of calendarView if calendarPermission is granted
+- [x] **[BUGFIX]** isAMPM EventEditor Time shows 15:00 PM
+
 
 ### 0.4.3 (coming soon)
 
