@@ -401,9 +401,10 @@ Codename: Otherside
 - [x] **[FEATURE]** add possibility to Edit an Event
 - [x] **[FEATURE]** remove an Event
 - [ ] **[FEATURE]** add Location for EventEditor
+- [ ] **[FEATURE]** add LocationPopover for EventEditor
 - [x] **[FEATURE]** add Attendees for EventEditor
 - [x] **[FEATURE]** add recurrenceRules to EventEditor
-- [ ] **[FEATURE]** add customRecurrenceRulePopover
+- [x] **[FEATURE]** add customRecurrenceRulePopover
 - [x] **[DESIGN]** add (1)st , (2)nd, ... to midLabel in EventView
 - [x] **[DESIGN]** added more shadows in EventEditor
 - [x] **[CODE]** added ContactManagement
