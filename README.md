@@ -344,8 +344,6 @@ Codename: TimeShifter
 
 ### 0.4.1 (coming soon)
 
-***TESTFLIGHT_BETA***
-
 Codename: Awake
 
 - [x] **[REQUEST]** change colorScheme or make it changeable
@@ -379,7 +377,7 @@ Codename: Awake
 
 Codename: Otherside
 
-*** FUTURE_TESTFLIGHT_BETA ***
+***TESTFLIGHT_BETA***
 
 - [x] **[REQUEST]** Notes predefined Text changed to PlaceholderText
 - [x] **[REQUEST]** Swipe for nextDay
@@ -390,8 +388,8 @@ Codename: Otherside
 - [x] **[FEATURE]** add EventNonEditorView
 - [x] **[FEATURE]** add possibility to Edit an Event
 - [x] **[FEATURE]** remove an Event
-- [ ] **[FEATURE]** add Location for EventEditor
-- [ ] **[FEATURE]** add LocationPopover for EventEditor
+- [x] **[FEATURE]** add Location for EventEditor
+- [x] **[FEATURE]** add LocationPopover for EventEditor
 - [x] **[FEATURE]** add Attendees for EventEditor
 - [x] **[FEATURE]** add recurrenceRules to EventEditor
 - [x] **[FEATURE]** add customRecurrenceRulePopover
@@ -411,6 +409,8 @@ Codename: Otherside
 
 Codename: Rise
 
+*** FUTURE_TESTFLIGHT_BETA ***
+
 - [ ] **[FEATURE]** new add Event Cell
 - [ ] **[FEATURE]** add DataSystem for unique EventColors
 - [ ] **[DESIGN]** Slide ETView up to fullscreen
@@ -420,6 +420,8 @@ Codename: Rise
 ### 0.4.4 (coming soon)
 
 Codename: Clean
+
+*** FUTURE_TESTFLIGHT_BETA ***
 
 - [ ] **[FEATURE]** add DataSystem for unique EventColors
 - [ ] **[DESIGN]** enhance design in SettingsView
@@ -431,6 +433,8 @@ Codename: Clean
 ### 0.5 (coming soon)
 
 Codename: Spacetime
+
+*** FUTURE_TESTFLIGHT_BETA ***
 
 - [ ] **[CODE]** introduction to new fileformat .hyze
 - [ ] **[CODE]** low-level .ics and .icsalarm, aswell as .calendar integration
