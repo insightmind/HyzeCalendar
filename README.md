@@ -342,7 +342,7 @@ Codename: TimeShifter
 * **[FEATURE]** improved dayShift - Set any weekDay as firstWeekDayOfWeek
 
 
-### 0.4.1 (coming soon)
+### 0.4.1
 
 Codename: Awake
 
@@ -373,7 +373,7 @@ Codename: Awake
 - [x] **[BUGFIX]** no masking in EventEditorLabel
 
 
-### 0.4.2 (coming soon)
+### 0.4.2
 
 Codename: Otherside
 
@@ -404,29 +404,45 @@ Codename: Otherside
 - [x] **[BUGFIX]** mask of dayViewTopLabel
 - [x] **[BUGFIX]** deselection of EventView even if ETViewCell is not present
 
+### 0.4.3pre1
+
+This is a PreRelease of the 0.4.3beta
+Codename: Rise
+
+- [x] redesigned EventList
+- [x] added relativeEventMode for EventList
+- [x] added support for iPhone 8, 8 Plus and X
+- [x] reintroduced JumpToTodayButton
+- [x] EventList is now draggable to 3 states (not enabled in this beta)
+- [x] adjusted TextSize in several Areas
+- [x] fixed some clipping
+- [x] fixed a bug which caused crash whe creating an event
+- [x] fixed fetch of locationTitle
+- [x] fixed shifted weekdays in several TimeZones
 
 ### 0.4.3 (coming soon)
 
 Codename: Rise
 
-*** FUTURE_TESTFLIGHT_BETA ***
-
-- [ ] **[FEATURE]** new add Event Cell
-- [ ] **[FEATURE]** add DataSystem for unique EventColors
-- [ ] **[DESIGN]** Slide ETView up to fullscreen
-- [ ] **[DESIGN]** Big circle for color or informations
-- [ ] **[DESIGN]** change ETCellView design
-
 ### 0.4.4 (coming soon)
 
 Codename: Clean
 
-*** FUTURE_TESTFLIGHT_BETA ***
+### 0.4.5 (coming soon)
 
-- [ ] **[FEATURE]** add DataSystem for unique EventColors
-- [ ] **[DESIGN]** enhance design in SettingsView
-- [ ] **[CODE]** make Colors dynamic -> less code
+Codename: Translate
 
+### 0.4.6 (coming soon)
+
+Codename: Scream
+
+### 0.4.7 (coming soon)
+
+Codename: Shortcut
+
+### 0.4.8 (coming soon)
+
+Codename: Chest
 
 ---
 
