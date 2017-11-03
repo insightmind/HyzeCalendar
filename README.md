@@ -404,96 +404,26 @@ Codename: Otherside
 - [x] **[BUGFIX]** mask of dayViewTopLabel
 - [x] **[BUGFIX]** deselection of EventView even if ETViewCell is not present
 
-### 0.4.3pre1
+### 0.4.3 (03.11.2017)
 
-This is a PreRelease of the 0.4.3beta
 Codename: Rise
 
 - [x] redesigned EventList
+- [x] redesigned SettingsView
+- [x] added watch hands
+- [x] fastScrolling in calendarView
+- [x] shortcut-menu for events
+- [x] weekNumbers in CalendarView
+- [x] alpha-Version of watchApp
 - [x] added relativeEventMode for EventList
 - [x] added support for iPhone 8, 8 Plus and X
 - [x] reintroduced JumpToTodayButton
-- [x] EventList is now draggable to 3 states (not enabled in this beta)
+- [x] EventList is now draggable to 3 states
 - [x] adjusted TextSize in several Areas
 - [x] fixed some clipping
 - [x] fixed a bug which caused crash whe creating an event
 - [x] fixed fetch of locationTitle
 - [x] fixed shifted weekdays in several TimeZones
-
-### 0.4.3 (coming soon)
-
-Codename: Rise
-
-### 0.4.4 (coming soon)
-
-Codename: Clean
-
-### 0.4.5 (coming soon)
-
-Codename: Translate
-
-### 0.4.6 (coming soon)
-
-Codename: Scream
-
-### 0.4.7 (coming soon)
-
-Codename: Shortcut
-
-### 0.4.8 (coming soon)
-
-Codename: Chest
-
----
-
-### 0.5 (coming soon)
-
-Codename: Spacetime
-
-*** FUTURE_TESTFLIGHT_BETA ***
-
-- [ ] **[CODE]** introduction to new fileformat .hyze
-- [ ] **[CODE]** low-level .ics and .icsalarm, aswell as .calendar integration
-
-
-## Future updates
-
----
-
-
-### 0.4 - 0.5
-
-
-* add own events
-* add eventDetailView
-* improving addEventView
-
-
-
-
-### 0.5 - 0.6
-
-* improving main functionality
-* adding subevents and superevents
-* adding relativeEvents
-* adding notifications
-* improving code readabilty
-
-
-
-
-### 0.6 - 0.7
-
-* add yearView
-
-
-
-
-### 0.7 - 8
-
-* preparing for release
-* bugfixing
-* improving performance
 
 
 ... much more to come
